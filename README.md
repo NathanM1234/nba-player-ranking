@@ -86,12 +86,6 @@ Contributions are welcome! Please open issues or pull requests.
 
 ---
 
-## License
-
-MIT License
-
----
-
 ## Author
 
 Nathan Monroe
